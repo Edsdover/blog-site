@@ -1,0 +1,12 @@
+.modal-image {
+  display: flex;
+  justify-content: center;
+}
+
+.modal-body {
+  text-align: center;
+}
+
+.closeButton {
+  box-shadow: 2px 2px 4px 0 #ccc;
+}

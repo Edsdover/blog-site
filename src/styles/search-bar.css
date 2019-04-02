@@ -1,0 +1,23 @@
+.searchBar {
+  padding-top: 1em;
+}
+
+.inputBox {
+  box-shadow: 2px 2px 4px 0 #ccc;
+  font-size: 18px;
+  width: 50%;
+  height: 30px;
+  margin-left: 25%;
+}
+
+.searchControlsContainer {
+  margin-left: 25%;
+  padding-top: 10px;
+}
+
+.sortControl {
+  box-shadow: 2px 2px 4px 0 #ccc;
+}
+.displayNumberControl {
+  box-shadow: 2px 2px 4px 0 #ccc;
+}

@@ -1,0 +1,48 @@
+.react-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+  float: left;
+}
+
+.app-header {
+  background-color: #668cff;
+  height: 80px;
+  padding: 20px;
+  color: white;
+}
+
+.app-title {
+  display: inline-block;
+  font-size: 1.5em;
+}
+
+.nav-link {
+  color: white;
+  text-decoration: none;
+}
+
+.nav-item {
+}
+
+.header-links {
+  display: flex;
+  justify-content: space-between;
+}
+
+.home-link {
+  color: white;
+  text-decoration: none;
+}
+
+.right-side-nav {
+
+}
+
+.marginRight {
+  margin-right: 10px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
